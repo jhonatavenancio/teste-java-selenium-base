@@ -19,6 +19,7 @@ Este é um projeto **genérico e reutilizável** para automação de testes com 
 ## 🧱 Estrutura do Projeto
 
 
+```text
 src/
 ├── main/java/
 │   ├── data/
@@ -35,6 +36,8 @@ src/
 └── test/java/
     └── tests/
         └── LoginTest.java  → Execução dos testes automatizados
+```
+
 
 
 ---
